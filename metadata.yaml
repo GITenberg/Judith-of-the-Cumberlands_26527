@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32071'
     url: http://www.gutenberg.org/2009/agents/32071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26527#Judith-of-the-Cumberlands
 gutenberg_issued: '2008-09-04'
 gutenberg_type: Text
 identifiers:
